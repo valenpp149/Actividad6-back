@@ -1,1 +1,1 @@
-Para que el proyecto funcione correctamente
+Para que el proyecto funcione correctamente debemos descargar la base de datos books y correrla en mysql, también se puede crear esta base de datos, adicionalmente tenemos que crear el archivo .env, en el cual se deben escribir las credenciales para el acceso a la base de datos
